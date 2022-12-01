@@ -40,3 +40,9 @@ Puedes elegir la que sea, yo lo estaré haciendo con [ParrotOs Security edition]
 -   Vim-Neovim
     -   Nightfox theme
 
+## Drivers
+-   Mousepad
+-   Nvidia
+-   Intel
+-   Audio
+
